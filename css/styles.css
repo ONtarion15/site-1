@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 198, 245);
+}
+
+.text h1{ 
+    font-family: 'Times New Roman';
+    font-weight: 600;
+    text-align: center;
+}
+.text h2{
+    font-family: Calibri;
+    text-align: left;
+}
+.text h3{
+    font-family: Courier New;
+    text-align: right;
+}

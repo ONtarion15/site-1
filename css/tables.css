@@ -1,0 +1,15 @@
+table {
+    text-align: left;
+    position: relative;
+    border-collapse: collapse;
+    background-color: aliceblue;
+    border: 3px solid;
+    border-color: brown;
+}
+th, tr ,td{
+    border: 3px solid black;
+    border-color: black;
+}
+.pruklad a{
+    font-size: 20px;
+}
